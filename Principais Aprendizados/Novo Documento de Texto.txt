@@ -1,0 +1,9 @@
+Principais aprendizados:
+
+ * O Git é um sistema distribuído seguro, pois qualquer versão dos códigos é totalmente confiável;
+ * Comandos básicos do Git;
+ * Objetos Internos do Git;
+    - Blobs
+    - Trees
+    - Commit
+ * Chaves SSH e Token;
